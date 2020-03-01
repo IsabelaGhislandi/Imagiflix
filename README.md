@@ -1,5 +1,5 @@
 # Imagiflix
-project of streaming movies 
+Project of streaming movies.
 
 
 # Instructions:
